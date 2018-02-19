@@ -1,6 +1,6 @@
 {
 	"name": "sass-media-query",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Media query mixins for SASS.",
 	"main": "mixin.sass",
 	"repository": {
