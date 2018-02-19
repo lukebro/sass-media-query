@@ -1,0 +1,26 @@
+{
+  "name": "sass-media-query",
+  "version": "0.1.0",
+  "description": "Media query mixins for SASS.",
+  "main": "mixins.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebro/sass-media-query.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "media",
+    "query",
+    "breakpoints"
+  ],
+  "author": "Lukasz Brodowski <lukebrodowski@gmail.com> (http://lukebro.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukebro/sass-media-query/issues"
+  },
+  "homepage": "https://github.com/lukebro/sass-media-query#readme"
+}
