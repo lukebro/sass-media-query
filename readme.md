@@ -28,7 +28,7 @@ $ yarn add sass-media-query
 +phone
 	body
 		// body will be blue on phone (<768px)
-		backround-color: blue
+		background-color: blue
 ```
 
 ## Configure
